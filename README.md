@@ -82,3 +82,4 @@ Content-Type: application/json
 ## ✅ Notes
 - This API does not persist user data — it only echoes your request.
 - Each POST request was independent and returned the expected structure.
+# httpbin-user-create
